@@ -1,0 +1,8 @@
+ID---ORDER_ID---DATE---TOTAL_PRICE---ACC_NO---BANK
+Payment1---Order4---2023-03-02---17.98---32123---MayBank
+Payment2---Order5---2023-03-03---55.0---32123---CIMB
+Payment3---Order3---2023-03-01---33.0---231231---MayBank
+Payment4---Order6---2023-03-03---97.98---31231---Citi Bank
+Payment5---Order7---2023-04-09---59.99---143694129---MayBank
+Payment6---Order6---2023-03-07---17.98---8568567---MayBank
+Payment7---Order7---2023-03-07---7.0---0789---Citi Bank

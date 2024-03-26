@@ -1,0 +1,6 @@
+ID---ITEM_NAME---PRICE---CATEGORY---DESCRIPTION---STOCK
+1---item1---1.5---cat1---desc1---10
+2---item2---2.5---cat2---desc2---20
+3---item3---3.5---cat3---desc3---30
+4---item4---4.99---cat2---desc4---40
+5---item5---8.99---cat3---desc5---75

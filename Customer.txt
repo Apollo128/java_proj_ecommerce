@@ -1,0 +1,5 @@
+CustID---Name---Email---Contact---Username 
+UID8---ahmad---email0123---0123456---Customer01
+UID9---CustomerProfile02---Mail798---PW7---Customer02
+UID10---CustomerProfile03---Mail165---PW8---Customer03
+UID10---CustomerProfile04---Mail666---PW9---Customer04

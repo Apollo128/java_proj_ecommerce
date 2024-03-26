@@ -1,0 +1,7 @@
+ID---CATEGORY_NAME
+1---cat1
+2---cat2
+3---cat3
+4---cat4
+5---cat5
+6---cat6

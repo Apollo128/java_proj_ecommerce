@@ -1,0 +1,11 @@
+ID---USERNAME---NAME---PW---ROLE
+UID2---Staff01---ProfileName534---PW2---Staff
+UID3---Admin02---ProfileName544---PW3---Admin
+UID5---Staff02---ProfileName537---PW4---Staff
+UID6---Admin03---ProfileName876---PW5---Staff
+UID8---Customer01---ProfileName432---PW6---Customer
+UID9---Customer02---ProfileName798---PW7---Customer
+UID10---Customer03---ProfileName165---PW8---Customer
+UID11---Customer04---ProfileName666---PW9---Customer
+UID4---Admin01---ProfileName123---PW1_changed---Admin
+UID12---Username12---ProfileName12---PW12---Staff

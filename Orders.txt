@@ -1,0 +1,5 @@
+ID---ITEM---DATE---QUANTITY---TOTAL_PRICE---ADDRESS---STATUS---USERNAME---STAFF_ID---FEEDBACK_Y/N
+Order3---item1---2023-03-01---2---33.0---Kuala Lumpur,Kuala Lumpur,3312,sad,ss---DELIVERED---User123---UNASSIGNED---SUBMITTED
+Order4---item5---2023-03-02---2---17.98---Kuala Lumpur,Kuala Lumpur,31313,st1,h1---DELIVERED---User234---UID2---SUBMITTED
+Order5---item2---2023-03-03---3---55.0---Kuala Lumpur,Kuala Lumpur,32131,st1,h1---RETURNED---User456---UID2---SUBMITTED
+Order7---item3---2023-03-07---2---7.0---Johor,Johor Baru,978,St3,Apt3---DELIVERED---Customer01---UID2---SUBMITTED

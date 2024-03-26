@@ -1,0 +1,5 @@
+CartID---ItemID---ItemName---quantity---TotalPrice---Username
+Cart2---5---item5---2---17.98---Customer01
+Cart3---5---item5---1---8.99---Customer01
+Cart4---4---item4---2---9.98---Customer01
+Cart6---4---item4---2---9.98---Customer01
